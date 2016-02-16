@@ -1,0 +1,67 @@
+/*GLOBAL STYLES */
+
+header{
+    background-color: #FF7900;
+    height:200px;
+}
+
+main {
+    width:90%;
+    margin:20px auto;
+}
+
+footer{
+    background-color: #FF7900;
+    height:300px;
+    
+}
+
+footer p {
+    color:#FFFFFF;
+    text-align:center;
+    padding:40px;
+    font-size:16px;
+}
+
+body {
+    margin:0px; 
+}
+
+h1{
+    
+}
+
+
+
+p {
+    
+}
+
+a {
+    
+}
+
+
+    
+
+/*BUTTON STYLES */
+
+.button {
+    background-color:#FF7900;
+    padding:15px 23px;
+    border-radius:6px;
+    color:#FFFFFF;
+    text-decoration:none;
+}
+
+.button:hover{
+    background-color:#FF0099;
+}
+
+/*other styles*/
+
+.imageCenter {
+    display:block;
+    margin:0px auto
+}
+
